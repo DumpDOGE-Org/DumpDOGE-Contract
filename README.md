@@ -12,4 +12,4 @@ If you don’t believe in me and my friends, then according to my Mama and my ag
 - Privates Sales 10%
 
 More Detail: https://dumpdoge.finance/   
-Contract on BSC: https://bscscan.com/address/0x0aE0f657429670Bb704C0D7d90C31b59d702B3D0
+https://bscscan.com/address/0x8C041732d9518B40d43e213bF20d08C6643ea09b
